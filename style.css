@@ -21,11 +21,8 @@ body {
     margin: 32px 0 0;
 }
 
-.header-logo {
-    color: rgb(242, 242, 242) !important;
-    text-decoration: none !important;
-    font-size: 60px;
-    font-weight: 500;
+.header-logo_img {
+    height: 90px;
 }
 
 .header-contacts_item {
@@ -83,7 +80,6 @@ body {
     text-align: center;
     font-size: 22px;
     margin: 0 0 40px;
-
 }
 
 .activities {
@@ -97,8 +93,8 @@ body {
     flex: 33.3333%;
     max-width: 33.3333%;
     text-align: center;
-    font-size: 22px;
-    line-height: 22px;
+    font-size: 28px;
+    line-height: 28px;
     font-weight: bold;
     margin: 0 0 32px;
     padding: 0 20px;
