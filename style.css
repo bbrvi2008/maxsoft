@@ -64,6 +64,10 @@ body {
         margin: 0 0 32px;
     }
 
+    .header-logo_img {
+        height: 60px;
+    }
+
     .header-logo {
         margin: 32px 0 32px;
     }
